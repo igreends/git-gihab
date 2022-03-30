@@ -1,3 +1,3 @@
 # git-gihab
 start march30 as a test
-this is for tutorial reasons
+this is for tutorial puporse.
