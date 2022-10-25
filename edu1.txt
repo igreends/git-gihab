@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 hello world; 
 Updates made on the second branch.
+=======
+hello world;
+New line test.
+
+:wq
+
+
+>>>>>>> firstbranch
